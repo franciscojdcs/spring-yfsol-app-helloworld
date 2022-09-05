@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '19f4ac7e-b8e6-4c7e-8a9d-819b1ad8367e'
+  azureSubscription: 'b04180d9-7ef3-470d-af0e-dfee77c04400'
 
   # Web app name
   webAppName: 'yfsol-helloworld'
