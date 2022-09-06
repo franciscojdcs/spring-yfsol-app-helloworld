@@ -10,7 +10,7 @@ import com.yfsol.app.helloworld.models.entity.HelloWorldBean;
 public class HelloWorldController {
 	@GetMapping(path = {"", "/hello-world"})
 	public String helloWorld() {
-		return "Hello World V20";
+		return "Hello World V21";
 	}
 
 	@GetMapping(path = "/hello-world-bean")
