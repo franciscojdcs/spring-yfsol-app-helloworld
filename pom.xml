@@ -65,6 +65,10 @@
 						<javaVersion>Java 11</javaVersion>
 						<webContainer>Java SE</webContainer>
 					</runtime>
+					<deploymentSlot>
+					   <name>stage</name>
+					   <configurationSource>parent</configurationSource>
+					</deploymentSlot>
 					<deployment>
 						<resources>
 							<resource>
