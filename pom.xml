@@ -49,7 +49,7 @@
 				<version>2.5.0</version>
 				<configuration>
 					<schemaVersion>v2</schemaVersion>
-					<subscriptionId>b04180d9-7ef3-470d-af0e-dfee77c04400</subscriptionId>
+					
 					<resourceGroup>yfsol-helloworld-rg</resourceGroup>
 					<appName>yfsol-helloworld</appName>
 					<pricingTier>B1</pricingTier>
